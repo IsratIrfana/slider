@@ -1,0 +1,21 @@
+body{
+    background: linear-gradient(45deg,rgb(198, 244, 153),#fff,rgba(244, 128, 244, 0.933));
+    margin: 0;
+    padding: 0;    
+}
+
+img{
+    height: 300px;
+}
+h1{
+    text-align: center;
+    background: salmon;
+    color:rgb(70, 20, 220);
+    font-style: bold;
+    padding: 30px;
+    background-attachment: fixed;
+}
+
+/* .1st owl-carousel owl-theme{
+    background-attachment: fixed;
+} */
